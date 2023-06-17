@@ -3,7 +3,7 @@
   <img src="https://www2.stardust-testing.com/hs-fs/hubfs/banner-automation.png?width=2550&height=995&name=banner-automation.png" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Ghada Trabelsi</h1>
-<h3 align="center">An Automation tester from Tunisia</h3>
+<h3 align="center">An Automation engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadatrabelsi&label=Profile%20views&color=0e75b6&style=flat" alt="ghadatrabelsi" /> </p>
 
