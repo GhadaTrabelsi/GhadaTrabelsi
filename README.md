@@ -4,9 +4,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ghada Trabelsi</h1>
 <h3 align="center">An Automation engineer from Tunisia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadatrabelsi&label=Profile%20views&color=0e75b6&style=flat" alt="ghadatrabelsi" /> </p>
-
+<p align="center">
+  <img alt="Coding" width="400" src="https://media2.giphy.com/media/cZxpHI9dH4eqFtwRKv/giphy.gif?cid=ecf05e47xhnt4ypsrwx496t4jt23bfjjnd26glfxe7xk56x1&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</p>
+  
 - 🔭 I’m currently working on [FreeCRM](https://freecrm.in/)
 
 - 🌱 I’m currently learning **TestNG**
