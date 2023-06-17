@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on [FreeCRM](https://freecrm.in/)
 
-- 🌱 I’m currently learning **TestNG**
+- 🌱 I’m currently learning **Playright framework**
 
 - 👯 I’m looking to collaborate on [SauceLABS](https://saucelabs.com)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ghada-trabelsi87/](https://www.linkedin.com/in/ghada-trabelsi87/)
 
-- 💬 Ask me about **Selenium Webdriver, Cucumber**
+- 💬 Ask me about **Selenium Webdriver, Cucumber , TestNG ,POM, Jenkins **
 
 - 📫 How to reach me **tghada0211@gmail.com**
 
