@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://www2.stardust-testing.com/hs-fs/hubfs/banner-automation.png?width=2550&height=995&name=banner-automation.png" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Ghada Trabelsi</h1>
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
+   <strong> Hi there,I'm Ghada Trabelsi welcome to my profile.</strong> 
+</h1>
 <h3 align="center">An Automation engineer from Tunisia</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/cZxpHI9dH4eqFtwRKv/giphy.gif?cid=ecf05e47xhnt4ypsrwx496t4jt23bfjjnd26glfxe7xk56x1&ep=v1_gifs_related&rid=giphy.gif&ct=g">
