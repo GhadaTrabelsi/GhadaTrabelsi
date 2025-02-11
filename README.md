@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhadaTrabelsi/](https://github.com/GhadaTrabelsi/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ghada-trabelsi87/](https://www.linkedin.com/in/ghada-trabelsi87/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ghada-trabelsi87/](https://www.linkedin.com/in/ghada-trabelsii/)
 
 - 💬 Ask me about **Selenium Webdriver, Cucumber , TestNG ,POM, Jenkins, Playwright, Karaté **
 
