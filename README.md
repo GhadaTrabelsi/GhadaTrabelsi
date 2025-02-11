@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **tghada0211@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ghada-trabelsi87/details/experience/]([https://www.linkedin.com/in/ghada-trabelsi87/details/experience/](https://www.linkedin.com/in/ghada-trabelsii/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/ghada-trabelsii/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
